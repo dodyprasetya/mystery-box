@@ -1,6 +1,6 @@
 # Mystery Box
 
-This is a simple Mystery Box Android application written by Kotlin by **Dody Prasetya**. The purpose of this app is only for documentation of my blog post tutorial **Mystery Box Android App Using Kotlin** -> https://thesimplycoder.com/95/mystery-box-android-app-using-kotlin-imageview-textview-and-button/
+This is a simple Mystery Box Android application written by Kotlin by **Dody Prasetya**. The purpose of this app is only for documentation of my blog post tutorial [**Mystery Box Android App Using Kotlin**](https://thesimplycoder.com/95/mystery-box-android-app-using-kotlin-imageview-textview-and-button/).
 
 --------------------
 ### What will you learn ###
